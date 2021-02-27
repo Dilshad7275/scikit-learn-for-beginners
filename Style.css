@@ -1,0 +1,9 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+.container-fluid {
+    width:100vw;
+    height:100vh;
+    background-image: url('Image/bg-1.jpg');
+}

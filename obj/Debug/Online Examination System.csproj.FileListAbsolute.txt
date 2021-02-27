@@ -1,0 +1,59 @@
+E:\.Netproject\Online Examination System\bin\Online Examination System.dll.config
+E:\.Netproject\Online Examination System\bin\Online Examination System.dll
+E:\.Netproject\Online Examination System\bin\Online Examination System.pdb
+E:\.Netproject\Online Examination System\bin\roslyn\csc.exe
+E:\.Netproject\Online Examination System\bin\roslyn\csc.exe.config
+E:\.Netproject\Online Examination System\bin\roslyn\csc.rsp
+E:\.Netproject\Online Examination System\bin\roslyn\csi.exe
+E:\.Netproject\Online Examination System\bin\roslyn\csi.exe.config
+E:\.Netproject\Online Examination System\bin\roslyn\csi.rsp
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.Netproject\Online Examination System\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.AppContext.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Collections.Immutable.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Console.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Globalization.Calendars.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.IO.Compression.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.IO.FileSystem.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Net.Http.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Net.Sockets.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Reflection.Metadata.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.ValueTuple.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Xml.XPath.dll
+E:\.Netproject\Online Examination System\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.Netproject\Online Examination System\bin\roslyn\vbc.exe
+E:\.Netproject\Online Examination System\bin\roslyn\vbc.exe.config
+E:\.Netproject\Online Examination System\bin\roslyn\vbc.rsp
+E:\.Netproject\Online Examination System\bin\roslyn\VBCSCompiler.exe
+E:\.Netproject\Online Examination System\bin\roslyn\VBCSCompiler.exe.config
+E:\.Netproject\Online Examination System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.Netproject\Online Examination System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.Netproject\Online Examination System\obj\Debug\Online Examination System.csprojAssemblyReference.cache
+E:\.Netproject\Online Examination System\obj\Debug\Online Examination System.csproj.CoreCompileInputs.cache
+E:\.Netproject\Online Examination System\obj\Debug\Online Examination System.csproj.CopyComplete
+E:\.Netproject\Online Examination System\obj\Debug\Online Examination System.dll
+E:\.Netproject\Online Examination System\obj\Debug\Online Examination System.pdb

